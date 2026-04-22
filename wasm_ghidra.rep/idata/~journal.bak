@@ -1,7 +1,0 @@
-IADD:00000000:/uaf_demo.wasm
-IDSET:/uaf_demo.wasm:7f001e5c929325234120208
-IDEL:/uaf_demo.wasm
-IADD:00000001:/uaf_demo.wasm
-IDSET:/uaf_demo.wasm:7f001e67929905377482958
-IADD:00000002:/uaf_demo1.wasm
-IDSET:/uaf_demo1.wasm:7f001e68e29981695245416
