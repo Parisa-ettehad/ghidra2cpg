@@ -1,4 +1,2 @@
-IADD:00000001:/uaf_real.wasm
-IDSET:/uaf_real.wasm:c0a801bd73030237683597375
-IADD:00000002:/uaf_real.wasm1
-IDSET:/uaf_real.wasm1:c0a801bd74430281355731250
+IADD:00000003:/uaf_real.wasm2
+IDSET:/uaf_real.wasm2:7f001e98d39577442214750
